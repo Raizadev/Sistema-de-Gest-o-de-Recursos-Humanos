@@ -1,0 +1,17 @@
+[
+    {
+        "tipo": "Desenvolvedor",
+        "nome": "Ana",
+        "salario": 3200
+    },
+    {
+        "tipo": "Gestor",
+        "nome": "Carlos",
+        "salario": 7000
+    },
+    {
+        "tipo": "Estagiario",
+        "nome": "Jo\u00e3o",
+        "salario": 1200
+    }
+]
